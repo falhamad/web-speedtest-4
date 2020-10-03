@@ -7,7 +7,6 @@ let instructor = {
   },
 };
 
-let file=[`Menawer`, `Javascript`, `careless10`]
-console.log(file[0])
-console.log(file[1])
-console.log(file[2])
+console.log(instructor.name)
+console.log(instructor.courses[0])
+console.log(instrucor.githubAccount.username)
